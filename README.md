@@ -81,4 +81,8 @@ Con la adición estratégica de solo 9 antenas, se logra maximizar la calidad de
 - Optimizar no solo el promedio de calidad, sino también el percentil mínimo o la equidad del servicio.
 - Usar datos reales de demanda o distribución de usuarios.
 - Experimentar con distintas funciones de calidad: decay exponencial, penalizaciones por baja cobertura.
+- 
+
+ **NOTA**
+Sé que en la práctica un proyecto en Telecomunicaciones involucra muchas más variables y desafíos técnicos. Esto es solo un ejemplo simplificado para ilustrar cómo podría empezar a abordarse el problema.
 
